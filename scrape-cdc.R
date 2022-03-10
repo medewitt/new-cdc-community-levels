@@ -1,5 +1,7 @@
 library(jsonlite)
 
+if(!dir.exists("data")) dir.create("data")
+
 end <- "/coronavirus/2019-ncov/modules/science/us-community-levels-by-county.json"
 
 slugify_date <- function(x){
