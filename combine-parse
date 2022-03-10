@@ -1,0 +1,7 @@
+# Parse Files
+
+jsonlite::read_json(tmp)->o
+
+a <- lapply(o, `[[`, 1)
+
+b <- data.table::rbindlist(lapply(o$data, data.table::rbindlist, fill = TRUE), fill = TRUE)
