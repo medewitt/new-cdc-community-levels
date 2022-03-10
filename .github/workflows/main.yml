@@ -55,7 +55,7 @@ jobs:
           CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
           CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
         run: |-
-          Rscript -e "source('scrape.R')"
+          Rscript -e "source('scrape-cdc.R')"
       - name: Commit results
         run: |
           git config --local user.email "action@github.com"
