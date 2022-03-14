@@ -1,0 +1,401 @@
+report_date,Name,FIPS,StateName,TotalPop,Health Service Area Number,Health Service Area Name,COVID-19 Community Level - COVID Inpatient Bed Utilization,COVID-19 Community Level - COVID Hospital Admissions per 100k,COVID-19 Community Level - Cases per 100k,COVID-19 Community Level
+2022-03-10,Alamance,37001,North Carolina,169509 ,267,"Alamance, NC",14.3,17.1,155.15,Medium
+2022-03-10,Alexander,37003,North Carolina,37497 ,192,"Iredell (Statesville), NC - Alexander, NC",4.9,5.9,48,Low
+2022-03-10,Alleghany,37005,North Carolina,11137 ,73,"Carroll, VA - Grayson, VA",5.8,23.9,341.2,High
+2022-03-10,Anson,37007,North Carolina,24446 ,167,"Mecklenburg (Charlotte), NC - Union, NC",5.9,5.7,98.18,Low
+2022-03-10,Ashe,37009,North Carolina,27203 ,194,"Watauga, NC - Ashe, NC",14,10.9,551.41,High
+2022-03-10,Avery,37011,North Carolina,17557 ,240,"Yancey, NC - Avery, NC",6.2,0,324.66,Medium
+2022-03-10,Beaufort,37013,North Carolina,46994 ,195,"Pitt, NC - Beaufort, NC",9.3,11.5,255.35,High
+2022-03-10,Bertie,37015,North Carolina,18947 ,243,"Hertford, NC - Bertie, NC",5.7,5.9,105.56,Low
+2022-03-10,Bladen,37017,North Carolina,32722 ,207,"Robeson, NC - Columbus, NC",5.3,18.1,195.59,Medium
+2022-03-10,Brunswick,37019,North Carolina,142820 ,168,"New Hanover (Wilmington), NC - Brunswick, NC",9.2,15.4,470.52,High
+2022-03-10,Buncombe,37021,North Carolina,261191 ,225,"Buncombe (Asheville), NC - Henderson, NC",6.5,3.6,292.89,Medium
+2022-03-10,Burke,37023,North Carolina,90485 ,229,"Catawba (Hickory), NC - Burke, NC",13,15.7,270.76,High
+2022-03-10,Cabarrus,37025,North Carolina,216453 ,235,"Cabarrus (Concord), NC - Rowan, NC",8.4,7.4,95.63,Low
+2022-03-10,Caldwell,37027,North Carolina,82178 ,229,"Catawba (Hickory), NC - Burke, NC",13,15.7,288.4,High
+2022-03-10,Camden,37029,North Carolina,10867 ,264,"Pasquotank, NC - Dare, NC",3.4,7.9,276.07,Medium
+2022-03-10,Carteret,37031,North Carolina,69473 ,242,"Onslow, NC - Craven, NC",7.6,9.7,685.16,Medium
+2022-03-10,Caswell,37033,North Carolina,22604 ,132,"Pittsylvania (Danville), VA - Danville City, VA",4.5,0.5,141.57,Low
+2022-03-10,Catawba,37035,North Carolina,159551 ,229,"Catawba (Hickory), NC - Burke, NC",13,15.7,140.39,Medium
+2022-03-10,Chatham,37037,North Carolina,74470 ,203,"Orange (Chapel Hill), NC - Harnett, NC",11.4,13.1,116.83,Medium
+2022-03-10,Cherokee,37039,North Carolina,28612 ,258,"Cherokee, NC - Clay, NC",13.7,5,209.7,High
+2022-03-10,Chowan,37041,North Carolina,13943 ,243,"Hertford, NC - Bertie, NC",5.7,5.9,28.69,Low
+2022-03-10,Clay,37043,North Carolina,11231 ,258,"Cherokee, NC - Clay, NC",13.7,5,44.52,Medium
+2022-03-10,Cleveland,37045,North Carolina,97947 ,218,"Gaston (Gastonia), NC - Cleveland, NC",11.2,6.9,132.72,Medium
+2022-03-10,Columbus,37047,North Carolina,55508 ,207,"Robeson, NC - Columbus, NC",5.3,18.1,172.95,Medium
+2022-03-10,Craven,37049,North Carolina,102139 ,242,"Onslow, NC - Craven, NC",7.6,9.7,276.09,Medium
+2022-03-10,Cumberland,37051,North Carolina,335509 ,262,"Cumberland (Fayetteville), NC - Sampson, NC",8.3,11,145.75,Medium
+2022-03-10,Currituck,37053,North Carolina,27763 ,6,"Virginia Beach City, VA - Norfolk City, VA",3.1,4.7,324.17,Medium
+2022-03-10,Dare,37055,North Carolina,37009 ,264,"Pasquotank, NC - Dare, NC",3.4,7.9,86.47,Low
+2022-03-10,Davidson,37057,North Carolina,167609 ,186,"Guilford (Greensboro), NC - Davidson, NC",8.1,11.6,111.57,Medium
+2022-03-10,Davie,37059,North Carolina,42846 ,149,"Forsyth (Winston-Salem), NC - Surry, NC",5,14.5,182.05,Medium
+2022-03-10,Duplin,37061,North Carolina,58741 ,238,"Wayne, NC - Lenoir, NC",14.1,8.5,217.91,High
+2022-03-10,Durham,37063,North Carolina,321488 ,170,"Durham (Durham), NC - Granville, NC",8.9,18.7,138.73,Medium
+2022-03-10,Edgecombe,37065,North Carolina,51472 ,214,"Nash, NC - Halifax, NC",5.3,11.1,132.11,Medium
+2022-03-10,Forsyth,37067,North Carolina,382295 ,149,"Forsyth (Winston-Salem), NC - Surry, NC",5,14.5,113.26,Medium
+2022-03-10,Franklin,37069,North Carolina,69685 ,198,"Wake (Raleigh), NC - Johnston, NC",9.7,6.7,198.03,Low
+2022-03-10,Gaston,37071,North Carolina,224529 ,218,"Gaston (Gastonia), NC - Cleveland, NC",11.2,6.9,98.87,Medium
+2022-03-10,Gates,37073,North Carolina,11562 ,243,"Hertford, NC - Bertie, NC",5.7,5.9,320.01,Medium
+2022-03-10,Graham,37075,North Carolina,8441 ,209,"Jackson, NC - Macon, NC",5.7,2.9,154.01,Low
+2022-03-10,Granville,37077,North Carolina,60443 ,170,"Durham (Durham), NC - Granville, NC",8.9,18.7,152.21,Medium
+2022-03-10,Greene,37079,North Carolina,21069 ,238,"Wayne, NC - Lenoir, NC",14.1,8.5,151.88,Medium
+2022-03-10,Guilford,37081,North Carolina,537174 ,186,"Guilford (Greensboro), NC - Davidson, NC",8.1,11.6,183.37,Medium
+2022-03-10,Halifax,37083,North Carolina,50010 ,214,"Nash, NC - Halifax, NC",5.3,11.1,113.98,Medium
+2022-03-10,Harnett,37085,North Carolina,135976 ,203,"Orange (Chapel Hill), NC - Harnett, NC",11.4,13.1,184.59,Medium
+2022-03-10,Haywood,37087,North Carolina,62317 ,225,"Buncombe (Asheville), NC - Henderson, NC",6.5,3.6,215.03,Medium
+2022-03-10,Henderson,37089,North Carolina,117417 ,225,"Buncombe (Asheville), NC - Henderson, NC",6.5,3.6,113.27,Low
+2022-03-10,Hertford,37091,North Carolina,23677 ,243,"Hertford, NC - Bertie, NC",5.7,5.9,63.35,Low
+2022-03-10,Hoke,37093,North Carolina,55234 ,205,"Moore, NC - Richmond, NC",9.3,5.3,166.56,Low
+2022-03-10,Hyde,37095,North Carolina,4937 ,195,"Pitt, NC - Beaufort, NC",9.3,11.5,222.81,High
+2022-03-10,Iredell,37097,North Carolina,181806 ,192,"Iredell (Statesville), NC - Alexander, NC",4.9,5.9,183.16,Low
+2022-03-10,Jackson,37099,North Carolina,43938 ,209,"Jackson, NC - Macon, NC",5.7,2.9,161.59,Low
+2022-03-10,Johnston,37101,North Carolina,209339 ,198,"Wake (Raleigh), NC - Johnston, NC",9.7,6.7,213.53,Medium
+2022-03-10,Jones,37103,North Carolina,9419 ,242,"Onslow, NC - Craven, NC",7.6,9.7,169.87,Low
+2022-03-10,Lee,37105,North Carolina,61779 ,203,"Orange (Chapel Hill), NC - Harnett, NC",11.4,13.1,66.37,Medium
+2022-03-10,Lenoir,37107,North Carolina,55949 ,238,"Wayne, NC - Lenoir, NC",14.1,8.5,191.25,Medium
+2022-03-10,Lincoln,37109,North Carolina,86111 ,218,"Gaston (Gastonia), NC - Cleveland, NC",11.2,6.9,113.81,Medium
+2022-03-10,McDowell,37111,North Carolina,45756 ,261,"McDowell, NC",7.6,0,225.11,Medium
+2022-03-10,Macon,37113,North Carolina,35858 ,209,"Jackson, NC - Macon, NC",5.7,2.9,320.71,Medium
+2022-03-10,Madison,37115,North Carolina,21755 ,225,"Buncombe (Asheville), NC - Henderson, NC",6.5,3.6,243.62,Medium
+2022-03-10,Martin,37117,North Carolina,22440 ,195,"Pitt, NC - Beaufort, NC",9.3,11.5,151.52,Medium
+2022-03-10,Mecklenburg,37119,North Carolina,1110356 ,167,"Mecklenburg (Charlotte), NC - Union, NC",5.9,5.7,98.71,Low
+2022-03-10,Mitchell,37121,North Carolina,14964 ,240,"Yancey, NC - Avery, NC",6.2,0,173.75,Low
+2022-03-10,Montgomery,37123,North Carolina,27173 ,205,"Moore, NC - Richmond, NC",9.3,5.3,103.04,Low
+2022-03-10,Moore,37125,North Carolina,100880 ,205,"Moore, NC - Richmond, NC",9.3,5.3,133.82,Low
+2022-03-10,Nash,37127,North Carolina,94298 ,214,"Nash, NC - Halifax, NC",5.3,11.1,132.56,Medium
+2022-03-10,New Hanover,37129,North Carolina,234473 ,168,"New Hanover (Wilmington), NC - Brunswick, NC",9.2,15.4,465.73,High
+2022-03-10,Northampton,37131,North Carolina,19483 ,214,"Nash, NC - Halifax, NC",5.3,11.1,123.18,Medium
+2022-03-10,Onslow,37133,North Carolina,197938 ,242,"Onslow, NC - Craven, NC",7.6,9.7,223.81,Medium
+2022-03-10,Orange,37135,North Carolina,148476 ,203,"Orange (Chapel Hill), NC - Harnett, NC",11.4,13.1,127.29,Medium
+2022-03-10,Pamlico,37137,North Carolina,12726 ,242,"Onslow, NC - Craven, NC",7.6,9.7,70.72,Low
+2022-03-10,Pasquotank,37139,North Carolina,39824 ,264,"Pasquotank, NC - Dare, NC",3.4,7.9,288.77,Medium
+2022-03-10,Pender,37141,North Carolina,63060 ,168,"New Hanover (Wilmington), NC - Brunswick, NC",9.2,15.4,558.2,High
+2022-03-10,Perquimans,37143,North Carolina,13463 ,264,"Pasquotank, NC - Dare, NC",3.4,7.9,393.67,Medium
+2022-03-10,Person,37145,North Carolina,39490 ,170,"Durham (Durham), NC - Granville, NC",8.9,18.7,149.4,Medium
+2022-03-10,Pitt,37147,North Carolina,180742 ,195,"Pitt, NC - Beaufort, NC",9.3,11.5,118.4,Medium
+2022-03-10,Polk,37149,North Carolina,20724 ,191,"Spartanburg (Spartanburg), SC - Cherokee, SC",6.8,10.3,164.06,Medium
+2022-03-10,Randolph,37151,North Carolina,143667 ,186,"Guilford (Greensboro), NC - Davidson, NC",8.1,11.6,119.03,Medium
+2022-03-10,Richmond,37153,North Carolina,44829 ,205,"Moore, NC - Richmond, NC",9.3,5.3,113.77,Low
+2022-03-10,Robeson,37155,North Carolina,130625 ,207,"Robeson, NC - Columbus, NC",5.3,18.1,209.76,High
+2022-03-10,Rockingham,37157,North Carolina,91010 ,186,"Guilford (Greensboro), NC - Davidson, NC",8.1,11.6,164.82,Medium
+2022-03-10,Rowan,37159,North Carolina,142088 ,235,"Cabarrus (Concord), NC - Rowan, NC",8.4,7.4,123.16,Low
+2022-03-10,Rutherford,37161,North Carolina,67029 ,218,"Gaston (Gastonia), NC - Cleveland, NC",11.2,6.9,101.45,Medium
+2022-03-10,Sampson,37163,North Carolina,63531 ,262,"Cumberland (Fayetteville), NC - Sampson, NC",8.3,11,214.07,High
+2022-03-10,Scotland,37165,North Carolina,34823 ,207,"Robeson, NC - Columbus, NC",5.3,18.1,80.41,Medium
+2022-03-10,Stanly,37167,North Carolina,62806 ,235,"Cabarrus (Concord), NC - Rowan, NC",8.4,7.4,124.19,Low
+2022-03-10,Stokes,37169,North Carolina,45591 ,149,"Forsyth (Winston-Salem), NC - Surry, NC",5,14.5,234.7,High
+2022-03-10,Surry,37171,North Carolina,71783 ,149,"Forsyth (Winston-Salem), NC - Surry, NC",5,14.5,189.46,Medium
+2022-03-10,Swain,37173,North Carolina,14271 ,209,"Jackson, NC - Macon, NC",5.7,2.9,266.27,Medium
+2022-03-10,Transylvania,37175,North Carolina,34385 ,225,"Buncombe (Asheville), NC - Henderson, NC",6.5,3.6,93.06,Low
+2022-03-10,Tyrrell,37177,North Carolina,4016 ,195,"Pitt, NC - Beaufort, NC",9.3,11.5,74.7,Medium
+2022-03-10,Union,37179,North Carolina,239859 ,167,"Mecklenburg (Charlotte), NC - Union, NC",5.9,5.7,130.91,Low
+2022-03-10,Vance,37181,North Carolina,44535 ,170,"Durham (Durham), NC - Granville, NC",8.9,18.7,96.55,Medium
+2022-03-10,Wake,37183,North Carolina,1111761 ,198,"Wake (Raleigh), NC - Johnston, NC",9.7,6.7,175.94,Low
+2022-03-10,Warren,37185,North Carolina,19731 ,170,"Durham (Durham), NC - Granville, NC",8.9,18.7,248.34,High
+2022-03-10,Washington,37187,North Carolina,11580 ,195,"Pitt, NC - Beaufort, NC",9.3,11.5,51.81,Medium
+2022-03-10,Watauga,37189,North Carolina,56177 ,194,"Watauga, NC - Ashe, NC",14,10.9,268.79,High
+2022-03-10,Wayne,37191,North Carolina,123131 ,238,"Wayne, NC - Lenoir, NC",14.1,8.5,107.2,Medium
+2022-03-10,Wilkes,37193,North Carolina,68412 ,256,"Wilkes, NC",5.4,4.4,214.87,Medium
+2022-03-10,Wilson,37195,North Carolina,81801 ,198,"Wake (Raleigh), NC - Johnston, NC",9.7,6.7,122.25,Low
+2022-03-10,Yadkin,37197,North Carolina,37667 ,149,"Forsyth (Winston-Salem), NC - Surry, NC",5,14.5,193.8,Medium
+2022-03-10,Yancey,37199,North Carolina,18069 ,240,"Yancey, NC - Avery, NC",6.2,0,420.61,Medium
+2022-03-11,Alamance,37001,North Carolina,169509,267,"Alamance, NC",12,4.1,96.16,Medium
+2022-03-11,Alexander,37003,North Carolina,37497,192,"Iredell (Statesville), NC - Alexander, NC",4.1,5.5,56,Low
+2022-03-11,Alleghany,37005,North Carolina,11137,73,"Carroll, VA - Grayson, VA",3.5,12.7,26.94,Medium
+2022-03-11,Anson,37007,North Carolina,24446,167,"Mecklenburg (Charlotte), NC - Union, NC",5.1,1.4,110.45,Low
+2022-03-11,Ashe,37009,North Carolina,27203,194,"Watauga, NC - Ashe, NC",11.3,3,253.65,High
+2022-03-11,Avery,37011,North Carolina,17557,240,"Yancey, NC - Avery, NC",5.3,0,159.48,Low
+2022-03-11,Beaufort,37013,North Carolina,46994,195,"Pitt, NC - Beaufort, NC",7.9,4.8,253.22,Medium
+2022-03-11,Bertie,37015,North Carolina,18947,243,"Hertford, NC - Bertie, NC",5.3,0,42.22,Low
+2022-03-11,Bladen,37017,North Carolina,32722,207,"Robeson, NC - Columbus, NC",2.5,0.4,58.06,Low
+2022-03-11,Brunswick,37019,North Carolina,142820,168,"New Hanover (Wilmington), NC - Brunswick, NC",8.3,5,119.03,Low
+2022-03-11,Buncombe,37021,North Carolina,261191,225,"Buncombe (Asheville), NC - Henderson, NC",4.9,2.6,302.08,Medium
+2022-03-11,Burke,37023,North Carolina,90485,229,"Catawba (Hickory), NC - Burke, NC",9.9,5.1,127.09,Low
+2022-03-11,Cabarrus,37025,North Carolina,216453,235,"Cabarrus (Concord), NC - Rowan, NC",7.2,2.4,49.43,Low
+2022-03-11,Caldwell,37027,North Carolina,82178,229,"Catawba (Hickory), NC - Burke, NC",9.9,5.1,87.61,Low
+2022-03-11,Camden,37029,North Carolina,10867,264,"Pasquotank, NC - Dare, NC",1.5,2,248.46,Medium
+2022-03-11,Carteret,37031,North Carolina,69473,242,"Onslow, NC - Craven, NC",6,1.3,84.93,Low
+2022-03-11,Caswell,37033,North Carolina,22604,132,"Pittsylvania (Danville), VA - Danville City, VA",3.9,1,154.84,Low
+2022-03-11,Catawba,37035,North Carolina,159551,229,"Catawba (Hickory), NC - Burke, NC",9.9,5.1,83.99,Low
+2022-03-11,Chatham,37037,North Carolina,74470,203,"Orange (Chapel Hill), NC - Harnett, NC",9.1,5,96.68,Low
+2022-03-11,Cherokee,37039,North Carolina,28612,258,"Cherokee, NC - Clay, NC",6.8,10,76.89,Medium
+2022-03-11,Chowan,37041,North Carolina,13943,243,"Hertford, NC - Bertie, NC",5.3,0,43.03,Low
+2022-03-11,Clay,37043,North Carolina,11231,258,"Cherokee, NC - Clay, NC",6.8,10,97.94,Medium
+2022-03-11,Cleveland,37045,North Carolina,97947,218,"Gaston (Gastonia), NC - Cleveland, NC",8.6,1.3,57.17,Low
+2022-03-11,Columbus,37047,North Carolina,55508,207,"Robeson, NC - Columbus, NC",2.5,0.4,106.29,Low
+2022-03-11,Craven,37049,North Carolina,102139,242,"Onslow, NC - Craven, NC",6,1.3,102.8,Low
+2022-03-11,Cumberland,37051,North Carolina,335509,262,"Cumberland (Fayetteville), NC - Sampson, NC",5,2.5,135.32,Low
+2022-03-11,Currituck,37053,North Carolina,27763,6,"Virginia Beach City, VA - Norfolk City, VA",2,2.9,93.65,Low
+2022-03-11,Dare,37055,North Carolina,37009,264,"Pasquotank, NC - Dare, NC",1.5,2,91.87,Low
+2022-03-11,Davidson,37057,North Carolina,167609,186,"Guilford (Greensboro), NC - Davidson, NC",6.8,3.8,69.81,Low
+2022-03-11,Davie,37059,North Carolina,42846,149,"Forsyth (Winston-Salem), NC - Surry, NC",3.6,3.8,56.01,Low
+2022-03-11,Duplin,37061,North Carolina,58741,238,"Wayne, NC - Lenoir, NC",9.5,0.4,165.13,Low
+2022-03-11,Durham,37063,North Carolina,321488,170,"Durham (Durham), NC - Granville, NC",6.8,4.7,127.84,Low
+2022-03-11,Edgecombe,37065,North Carolina,51472,214,"Nash, NC - Halifax, NC",4.2,0.9,66.06,Low
+2022-03-11,Forsyth,37067,North Carolina,382295,149,"Forsyth (Winston-Salem), NC - Surry, NC",3.6,3.8,62.26,Low
+2022-03-11,Franklin,37069,North Carolina,69685,198,"Wake (Raleigh), NC - Johnston, NC",7.9,1.4,88.97,Low
+2022-03-11,Gaston,37071,North Carolina,224529,218,"Gaston (Gastonia), NC - Cleveland, NC",8.6,1.3,80.61,Low
+2022-03-11,Gates,37073,North Carolina,11562,243,"Hertford, NC - Bertie, NC",5.3,0,224.87,Medium
+2022-03-11,Graham,37075,North Carolina,8441,209,"Jackson, NC - Macon, NC",3.4,5.9,142.16,Low
+2022-03-11,Granville,37077,North Carolina,60443,170,"Durham (Durham), NC - Granville, NC",6.8,4.7,79.41,Low
+2022-03-11,Greene,37079,North Carolina,21069,238,"Wayne, NC - Lenoir, NC",9.5,0.4,118.66,Low
+2022-03-11,Guilford,37081,North Carolina,537174,186,"Guilford (Greensboro), NC - Davidson, NC",6.8,3.8,87.87,Low
+2022-03-11,Halifax,37083,North Carolina,50010,214,"Nash, NC - Halifax, NC",4.2,0.9,81.98,Low
+2022-03-11,Harnett,37085,North Carolina,135976,203,"Orange (Chapel Hill), NC - Harnett, NC",9.1,5,168.41,Low
+2022-03-11,Haywood,37087,North Carolina,62317,225,"Buncombe (Asheville), NC - Henderson, NC",4.9,2.6,110.72,Low
+2022-03-11,Henderson,37089,North Carolina,117417,225,"Buncombe (Asheville), NC - Henderson, NC",4.9,2.6,58.76,Low
+2022-03-11,Hertford,37091,North Carolina,23677,243,"Hertford, NC - Bertie, NC",5.3,0,59.13,Low
+2022-03-11,Hoke,37093,North Carolina,55234,205,"Moore, NC - Richmond, NC",7.4,1.3,110.44,Low
+2022-03-11,Hyde,37095,North Carolina,4937,195,"Pitt, NC - Beaufort, NC",7.9,4.8,101.28,Low
+2022-03-11,Iredell,37097,North Carolina,181806,192,"Iredell (Statesville), NC - Alexander, NC",4.1,5.5,51.7,Low
+2022-03-11,Jackson,37099,North Carolina,43938,209,"Jackson, NC - Macon, NC",3.4,5.9,122.9,Low
+2022-03-11,Johnston,37101,North Carolina,209339,198,"Wake (Raleigh), NC - Johnston, NC",7.9,1.4,171.01,Low
+2022-03-11,Jones,37103,North Carolina,9419,242,"Onslow, NC - Craven, NC",6,1.3,63.7,Low
+2022-03-11,Lee,37105,North Carolina,61779,203,"Orange (Chapel Hill), NC - Harnett, NC",9.1,5,72.84,Low
+2022-03-11,Lenoir,37107,North Carolina,55949,238,"Wayne, NC - Lenoir, NC",9.5,0.4,50.05,Low
+2022-03-11,Lincoln,37109,North Carolina,86111,218,"Gaston (Gastonia), NC - Cleveland, NC",8.6,1.3,56.9,Low
+2022-03-11,McDowell,37111,North Carolina,45756,261,"McDowell, NC",3.8,0,139.87,Low
+2022-03-11,Macon,37113,North Carolina,35858,209,"Jackson, NC - Macon, NC",3.4,5.9,320.71,Medium
+2022-03-11,Madison,37115,North Carolina,21755,225,"Buncombe (Asheville), NC - Henderson, NC",4.9,2.6,156.29,Low
+2022-03-11,Martin,37117,North Carolina,22440,195,"Pitt, NC - Beaufort, NC",7.9,4.8,62.39,Low
+2022-03-11,Mecklenburg,37119,North Carolina,1110356,167,"Mecklenburg (Charlotte), NC - Union, NC",5.1,1.4,72.86,Low
+2022-03-11,Mitchell,37121,North Carolina,14964,240,"Yancey, NC - Avery, NC",5.3,0,66.83,Low
+2022-03-11,Montgomery,37123,North Carolina,27173,205,"Moore, NC - Richmond, NC",7.4,1.3,47.84,Low
+2022-03-11,Moore,37125,North Carolina,100880,205,"Moore, NC - Richmond, NC",7.4,1.3,85.25,Low
+2022-03-11,Nash,37127,North Carolina,94298,214,"Nash, NC - Halifax, NC",4.2,0.9,0,Low
+2022-03-11,New Hanover,37129,North Carolina,234473,168,"New Hanover (Wilmington), NC - Brunswick, NC",8.3,5,143.3,Low
+2022-03-11,Northampton,37131,North Carolina,19483,214,"Nash, NC - Halifax, NC",4.2,0.9,51.33,Low
+2022-03-11,Onslow,37133,North Carolina,197938,242,"Onslow, NC - Craven, NC",6,1.3,419.83,Medium
+2022-03-11,Orange,37135,North Carolina,148476,203,"Orange (Chapel Hill), NC - Harnett, NC",9.1,5,129.31,Low
+2022-03-11,Pamlico,37137,North Carolina,12726,242,"Onslow, NC - Craven, NC",6,1.3,55.01,Low
+2022-03-11,Pasquotank,37139,North Carolina,39824,264,"Pasquotank, NC - Dare, NC",1.5,2,462.03,Medium
+2022-03-11,Pender,37141,North Carolina,63060,168,"New Hanover (Wilmington), NC - Brunswick, NC",8.3,5,85.63,Low
+2022-03-11,Perquimans,37143,North Carolina,13463,264,"Pasquotank, NC - Dare, NC",1.5,2,230.26,Medium
+2022-03-11,Person,37145,North Carolina,39490,170,"Durham (Durham), NC - Granville, NC",6.8,4.7,144.34,Low
+2022-03-11,Pitt,37147,North Carolina,180742,195,"Pitt, NC - Beaufort, NC",7.9,4.8,60.86,Low
+2022-03-11,Polk,37149,North Carolina,20724,191,"Spartanburg (Spartanburg), SC - Cherokee, SC",4.9,8.7,139.93,Low
+2022-03-11,Randolph,37151,North Carolina,143667,186,"Guilford (Greensboro), NC - Davidson, NC",6.8,3.8,86.31,Low
+2022-03-11,Richmond,37153,North Carolina,44829,205,"Moore, NC - Richmond, NC",7.4,1.3,58,Low
+2022-03-11,Robeson,37155,North Carolina,130625,207,"Robeson, NC - Columbus, NC",2.5,0.4,164.59,Low
+2022-03-11,Rockingham,37157,North Carolina,91010,186,"Guilford (Greensboro), NC - Davidson, NC",6.8,3.8,108.78,Low
+2022-03-11,Rowan,37159,North Carolina,142088,235,"Cabarrus (Concord), NC - Rowan, NC",7.2,2.4,68.27,Low
+2022-03-11,Rutherford,37161,North Carolina,67029,218,"Gaston (Gastonia), NC - Cleveland, NC",8.6,1.3,125.32,Low
+2022-03-11,Sampson,37163,North Carolina,63531,262,"Cumberland (Fayetteville), NC - Sampson, NC",5,2.5,393.51,Medium
+2022-03-11,Scotland,37165,North Carolina,34823,207,"Robeson, NC - Columbus, NC",2.5,0.4,77.53,Low
+2022-03-11,Stanly,37167,North Carolina,62806,235,"Cabarrus (Concord), NC - Rowan, NC",7.2,2.4,63.69,Low
+2022-03-11,Stokes,37169,North Carolina,45591,149,"Forsyth (Winston-Salem), NC - Surry, NC",3.6,3.8,92.12,Low
+2022-03-11,Surry,37171,North Carolina,71783,149,"Forsyth (Winston-Salem), NC - Surry, NC",3.6,3.8,82.19,Low
+2022-03-11,Swain,37173,North Carolina,14271,209,"Jackson, NC - Macon, NC",3.4,5.9,168.17,Low
+2022-03-11,Transylvania,37175,North Carolina,34385,225,"Buncombe (Asheville), NC - Henderson, NC",4.9,2.6,61.07,Low
+2022-03-11,Tyrrell,37177,North Carolina,4016,195,"Pitt, NC - Beaufort, NC",7.9,4.8,149.4,Low
+2022-03-11,Union,37179,North Carolina,239859,167,"Mecklenburg (Charlotte), NC - Union, NC",5.1,1.4,84.63,Low
+2022-03-11,Vance,37181,North Carolina,44535,170,"Durham (Durham), NC - Granville, NC",6.8,4.7,42.66,Low
+2022-03-11,Wake,37183,North Carolina,1111761,198,"Wake (Raleigh), NC - Johnston, NC",7.9,1.4,131.5,Low
+2022-03-11,Warren,37185,North Carolina,19731,170,"Durham (Durham), NC - Granville, NC",6.8,4.7,172.32,Low
+2022-03-11,Washington,37187,North Carolina,11580,195,"Pitt, NC - Beaufort, NC",7.9,4.8,328.15,Medium
+2022-03-11,Watauga,37189,North Carolina,56177,194,"Watauga, NC - Ashe, NC",11.3,3,135.29,Medium
+2022-03-11,Wayne,37191,North Carolina,123131,238,"Wayne, NC - Lenoir, NC",9.5,0.4,232.27,Medium
+2022-03-11,Wilkes,37193,North Carolina,68412,256,"Wilkes, NC",5.7,4.4,29.23,Low
+2022-03-11,Wilson,37195,North Carolina,81801,198,"Wake (Raleigh), NC - Johnston, NC",7.9,1.4,44.01,Low
+2022-03-11,Yadkin,37197,North Carolina,37667,149,"Forsyth (Winston-Salem), NC - Surry, NC",3.6,3.8,82.3,Low
+2022-03-11,Yancey,37199,North Carolina,18069,240,"Yancey, NC - Avery, NC",5.3,0,343.13,Medium
+2022-03-12,Alamance,37001,North Carolina,169509,267,"Alamance, NC",12,4.1,96.16,Medium
+2022-03-12,Alexander,37003,North Carolina,37497,192,"Iredell (Statesville), NC - Alexander, NC",4.1,5.5,56,Low
+2022-03-12,Alleghany,37005,North Carolina,11137,73,"Carroll, VA - Grayson, VA",3.5,12.7,26.94,Medium
+2022-03-12,Anson,37007,North Carolina,24446,167,"Mecklenburg (Charlotte), NC - Union, NC",5.1,1.4,110.45,Low
+2022-03-12,Ashe,37009,North Carolina,27203,194,"Watauga, NC - Ashe, NC",11.3,3,253.65,High
+2022-03-12,Avery,37011,North Carolina,17557,240,"Yancey, NC - Avery, NC",5.3,0,159.48,Low
+2022-03-12,Beaufort,37013,North Carolina,46994,195,"Pitt, NC - Beaufort, NC",7.9,4.8,253.22,Medium
+2022-03-12,Bertie,37015,North Carolina,18947,243,"Hertford, NC - Bertie, NC",5.3,0,42.22,Low
+2022-03-12,Bladen,37017,North Carolina,32722,207,"Robeson, NC - Columbus, NC",2.5,0.4,58.06,Low
+2022-03-12,Brunswick,37019,North Carolina,142820,168,"New Hanover (Wilmington), NC - Brunswick, NC",8.3,5,119.03,Low
+2022-03-12,Buncombe,37021,North Carolina,261191,225,"Buncombe (Asheville), NC - Henderson, NC",4.9,2.6,302.08,Medium
+2022-03-12,Burke,37023,North Carolina,90485,229,"Catawba (Hickory), NC - Burke, NC",9.9,5.1,127.09,Low
+2022-03-12,Cabarrus,37025,North Carolina,216453,235,"Cabarrus (Concord), NC - Rowan, NC",7.2,2.4,49.43,Low
+2022-03-12,Caldwell,37027,North Carolina,82178,229,"Catawba (Hickory), NC - Burke, NC",9.9,5.1,87.61,Low
+2022-03-12,Camden,37029,North Carolina,10867,264,"Pasquotank, NC - Dare, NC",1.5,2,248.46,Medium
+2022-03-12,Carteret,37031,North Carolina,69473,242,"Onslow, NC - Craven, NC",6,1.3,84.93,Low
+2022-03-12,Caswell,37033,North Carolina,22604,132,"Pittsylvania (Danville), VA - Danville City, VA",3.9,1,154.84,Low
+2022-03-12,Catawba,37035,North Carolina,159551,229,"Catawba (Hickory), NC - Burke, NC",9.9,5.1,83.99,Low
+2022-03-12,Chatham,37037,North Carolina,74470,203,"Orange (Chapel Hill), NC - Harnett, NC",9.1,5,96.68,Low
+2022-03-12,Cherokee,37039,North Carolina,28612,258,"Cherokee, NC - Clay, NC",6.8,10,76.89,Medium
+2022-03-12,Chowan,37041,North Carolina,13943,243,"Hertford, NC - Bertie, NC",5.3,0,43.03,Low
+2022-03-12,Clay,37043,North Carolina,11231,258,"Cherokee, NC - Clay, NC",6.8,10,97.94,Medium
+2022-03-12,Cleveland,37045,North Carolina,97947,218,"Gaston (Gastonia), NC - Cleveland, NC",8.6,1.3,57.17,Low
+2022-03-12,Columbus,37047,North Carolina,55508,207,"Robeson, NC - Columbus, NC",2.5,0.4,106.29,Low
+2022-03-12,Craven,37049,North Carolina,102139,242,"Onslow, NC - Craven, NC",6,1.3,102.8,Low
+2022-03-12,Cumberland,37051,North Carolina,335509,262,"Cumberland (Fayetteville), NC - Sampson, NC",5,2.5,135.32,Low
+2022-03-12,Currituck,37053,North Carolina,27763,6,"Virginia Beach City, VA - Norfolk City, VA",2,2.9,93.65,Low
+2022-03-12,Dare,37055,North Carolina,37009,264,"Pasquotank, NC - Dare, NC",1.5,2,91.87,Low
+2022-03-12,Davidson,37057,North Carolina,167609,186,"Guilford (Greensboro), NC - Davidson, NC",6.8,3.8,69.81,Low
+2022-03-12,Davie,37059,North Carolina,42846,149,"Forsyth (Winston-Salem), NC - Surry, NC",3.6,3.8,56.01,Low
+2022-03-12,Duplin,37061,North Carolina,58741,238,"Wayne, NC - Lenoir, NC",9.5,0.4,165.13,Low
+2022-03-12,Durham,37063,North Carolina,321488,170,"Durham (Durham), NC - Granville, NC",6.8,4.7,127.84,Low
+2022-03-12,Edgecombe,37065,North Carolina,51472,214,"Nash, NC - Halifax, NC",4.2,0.9,66.06,Low
+2022-03-12,Forsyth,37067,North Carolina,382295,149,"Forsyth (Winston-Salem), NC - Surry, NC",3.6,3.8,62.26,Low
+2022-03-12,Franklin,37069,North Carolina,69685,198,"Wake (Raleigh), NC - Johnston, NC",7.9,1.4,88.97,Low
+2022-03-12,Gaston,37071,North Carolina,224529,218,"Gaston (Gastonia), NC - Cleveland, NC",8.6,1.3,80.61,Low
+2022-03-12,Gates,37073,North Carolina,11562,243,"Hertford, NC - Bertie, NC",5.3,0,224.87,Medium
+2022-03-12,Graham,37075,North Carolina,8441,209,"Jackson, NC - Macon, NC",3.4,5.9,142.16,Low
+2022-03-12,Granville,37077,North Carolina,60443,170,"Durham (Durham), NC - Granville, NC",6.8,4.7,79.41,Low
+2022-03-12,Greene,37079,North Carolina,21069,238,"Wayne, NC - Lenoir, NC",9.5,0.4,118.66,Low
+2022-03-12,Guilford,37081,North Carolina,537174,186,"Guilford (Greensboro), NC - Davidson, NC",6.8,3.8,87.87,Low
+2022-03-12,Halifax,37083,North Carolina,50010,214,"Nash, NC - Halifax, NC",4.2,0.9,81.98,Low
+2022-03-12,Harnett,37085,North Carolina,135976,203,"Orange (Chapel Hill), NC - Harnett, NC",9.1,5,168.41,Low
+2022-03-12,Haywood,37087,North Carolina,62317,225,"Buncombe (Asheville), NC - Henderson, NC",4.9,2.6,110.72,Low
+2022-03-12,Henderson,37089,North Carolina,117417,225,"Buncombe (Asheville), NC - Henderson, NC",4.9,2.6,58.76,Low
+2022-03-12,Hertford,37091,North Carolina,23677,243,"Hertford, NC - Bertie, NC",5.3,0,59.13,Low
+2022-03-12,Hoke,37093,North Carolina,55234,205,"Moore, NC - Richmond, NC",7.4,1.3,110.44,Low
+2022-03-12,Hyde,37095,North Carolina,4937,195,"Pitt, NC - Beaufort, NC",7.9,4.8,101.28,Low
+2022-03-12,Iredell,37097,North Carolina,181806,192,"Iredell (Statesville), NC - Alexander, NC",4.1,5.5,51.7,Low
+2022-03-12,Jackson,37099,North Carolina,43938,209,"Jackson, NC - Macon, NC",3.4,5.9,122.9,Low
+2022-03-12,Johnston,37101,North Carolina,209339,198,"Wake (Raleigh), NC - Johnston, NC",7.9,1.4,171.01,Low
+2022-03-12,Jones,37103,North Carolina,9419,242,"Onslow, NC - Craven, NC",6,1.3,63.7,Low
+2022-03-12,Lee,37105,North Carolina,61779,203,"Orange (Chapel Hill), NC - Harnett, NC",9.1,5,72.84,Low
+2022-03-12,Lenoir,37107,North Carolina,55949,238,"Wayne, NC - Lenoir, NC",9.5,0.4,50.05,Low
+2022-03-12,Lincoln,37109,North Carolina,86111,218,"Gaston (Gastonia), NC - Cleveland, NC",8.6,1.3,56.9,Low
+2022-03-12,McDowell,37111,North Carolina,45756,261,"McDowell, NC",3.8,0,139.87,Low
+2022-03-12,Macon,37113,North Carolina,35858,209,"Jackson, NC - Macon, NC",3.4,5.9,320.71,Medium
+2022-03-12,Madison,37115,North Carolina,21755,225,"Buncombe (Asheville), NC - Henderson, NC",4.9,2.6,156.29,Low
+2022-03-12,Martin,37117,North Carolina,22440,195,"Pitt, NC - Beaufort, NC",7.9,4.8,62.39,Low
+2022-03-12,Mecklenburg,37119,North Carolina,1110356,167,"Mecklenburg (Charlotte), NC - Union, NC",5.1,1.4,72.86,Low
+2022-03-12,Mitchell,37121,North Carolina,14964,240,"Yancey, NC - Avery, NC",5.3,0,66.83,Low
+2022-03-12,Montgomery,37123,North Carolina,27173,205,"Moore, NC - Richmond, NC",7.4,1.3,47.84,Low
+2022-03-12,Moore,37125,North Carolina,100880,205,"Moore, NC - Richmond, NC",7.4,1.3,85.25,Low
+2022-03-12,Nash,37127,North Carolina,94298,214,"Nash, NC - Halifax, NC",4.2,0.9,0,Low
+2022-03-12,New Hanover,37129,North Carolina,234473,168,"New Hanover (Wilmington), NC - Brunswick, NC",8.3,5,143.3,Low
+2022-03-12,Northampton,37131,North Carolina,19483,214,"Nash, NC - Halifax, NC",4.2,0.9,51.33,Low
+2022-03-12,Onslow,37133,North Carolina,197938,242,"Onslow, NC - Craven, NC",6,1.3,419.83,Medium
+2022-03-12,Orange,37135,North Carolina,148476,203,"Orange (Chapel Hill), NC - Harnett, NC",9.1,5,129.31,Low
+2022-03-12,Pamlico,37137,North Carolina,12726,242,"Onslow, NC - Craven, NC",6,1.3,55.01,Low
+2022-03-12,Pasquotank,37139,North Carolina,39824,264,"Pasquotank, NC - Dare, NC",1.5,2,462.03,Medium
+2022-03-12,Pender,37141,North Carolina,63060,168,"New Hanover (Wilmington), NC - Brunswick, NC",8.3,5,85.63,Low
+2022-03-12,Perquimans,37143,North Carolina,13463,264,"Pasquotank, NC - Dare, NC",1.5,2,230.26,Medium
+2022-03-12,Person,37145,North Carolina,39490,170,"Durham (Durham), NC - Granville, NC",6.8,4.7,144.34,Low
+2022-03-12,Pitt,37147,North Carolina,180742,195,"Pitt, NC - Beaufort, NC",7.9,4.8,60.86,Low
+2022-03-12,Polk,37149,North Carolina,20724,191,"Spartanburg (Spartanburg), SC - Cherokee, SC",4.9,8.7,139.93,Low
+2022-03-12,Randolph,37151,North Carolina,143667,186,"Guilford (Greensboro), NC - Davidson, NC",6.8,3.8,86.31,Low
+2022-03-12,Richmond,37153,North Carolina,44829,205,"Moore, NC - Richmond, NC",7.4,1.3,58,Low
+2022-03-12,Robeson,37155,North Carolina,130625,207,"Robeson, NC - Columbus, NC",2.5,0.4,164.59,Low
+2022-03-12,Rockingham,37157,North Carolina,91010,186,"Guilford (Greensboro), NC - Davidson, NC",6.8,3.8,108.78,Low
+2022-03-12,Rowan,37159,North Carolina,142088,235,"Cabarrus (Concord), NC - Rowan, NC",7.2,2.4,68.27,Low
+2022-03-12,Rutherford,37161,North Carolina,67029,218,"Gaston (Gastonia), NC - Cleveland, NC",8.6,1.3,125.32,Low
+2022-03-12,Sampson,37163,North Carolina,63531,262,"Cumberland (Fayetteville), NC - Sampson, NC",5,2.5,393.51,Medium
+2022-03-12,Scotland,37165,North Carolina,34823,207,"Robeson, NC - Columbus, NC",2.5,0.4,77.53,Low
+2022-03-12,Stanly,37167,North Carolina,62806,235,"Cabarrus (Concord), NC - Rowan, NC",7.2,2.4,63.69,Low
+2022-03-12,Stokes,37169,North Carolina,45591,149,"Forsyth (Winston-Salem), NC - Surry, NC",3.6,3.8,92.12,Low
+2022-03-12,Surry,37171,North Carolina,71783,149,"Forsyth (Winston-Salem), NC - Surry, NC",3.6,3.8,82.19,Low
+2022-03-12,Swain,37173,North Carolina,14271,209,"Jackson, NC - Macon, NC",3.4,5.9,168.17,Low
+2022-03-12,Transylvania,37175,North Carolina,34385,225,"Buncombe (Asheville), NC - Henderson, NC",4.9,2.6,61.07,Low
+2022-03-12,Tyrrell,37177,North Carolina,4016,195,"Pitt, NC - Beaufort, NC",7.9,4.8,149.4,Low
+2022-03-12,Union,37179,North Carolina,239859,167,"Mecklenburg (Charlotte), NC - Union, NC",5.1,1.4,84.63,Low
+2022-03-12,Vance,37181,North Carolina,44535,170,"Durham (Durham), NC - Granville, NC",6.8,4.7,42.66,Low
+2022-03-12,Wake,37183,North Carolina,1111761,198,"Wake (Raleigh), NC - Johnston, NC",7.9,1.4,131.5,Low
+2022-03-12,Warren,37185,North Carolina,19731,170,"Durham (Durham), NC - Granville, NC",6.8,4.7,172.32,Low
+2022-03-12,Washington,37187,North Carolina,11580,195,"Pitt, NC - Beaufort, NC",7.9,4.8,328.15,Medium
+2022-03-12,Watauga,37189,North Carolina,56177,194,"Watauga, NC - Ashe, NC",11.3,3,135.29,Medium
+2022-03-12,Wayne,37191,North Carolina,123131,238,"Wayne, NC - Lenoir, NC",9.5,0.4,232.27,Medium
+2022-03-12,Wilkes,37193,North Carolina,68412,256,"Wilkes, NC",5.7,4.4,29.23,Low
+2022-03-12,Wilson,37195,North Carolina,81801,198,"Wake (Raleigh), NC - Johnston, NC",7.9,1.4,44.01,Low
+2022-03-12,Yadkin,37197,North Carolina,37667,149,"Forsyth (Winston-Salem), NC - Surry, NC",3.6,3.8,82.3,Low
+2022-03-12,Yancey,37199,North Carolina,18069,240,"Yancey, NC - Avery, NC",5.3,0,343.13,Medium
+2022-03-13,Alamance,37001,North Carolina,169509,267,"Alamance, NC",12,4.1,96.16,Medium
+2022-03-13,Alexander,37003,North Carolina,37497,192,"Iredell (Statesville), NC - Alexander, NC",4.1,5.5,56,Low
+2022-03-13,Alleghany,37005,North Carolina,11137,73,"Carroll, VA - Grayson, VA",3.5,12.7,26.94,Medium
+2022-03-13,Anson,37007,North Carolina,24446,167,"Mecklenburg (Charlotte), NC - Union, NC",5.1,1.4,110.45,Low
+2022-03-13,Ashe,37009,North Carolina,27203,194,"Watauga, NC - Ashe, NC",11.3,3,253.65,High
+2022-03-13,Avery,37011,North Carolina,17557,240,"Yancey, NC - Avery, NC",5.3,0,159.48,Low
+2022-03-13,Beaufort,37013,North Carolina,46994,195,"Pitt, NC - Beaufort, NC",7.9,4.8,253.22,Medium
+2022-03-13,Bertie,37015,North Carolina,18947,243,"Hertford, NC - Bertie, NC",5.3,0,42.22,Low
+2022-03-13,Bladen,37017,North Carolina,32722,207,"Robeson, NC - Columbus, NC",2.5,0.4,58.06,Low
+2022-03-13,Brunswick,37019,North Carolina,142820,168,"New Hanover (Wilmington), NC - Brunswick, NC",8.3,5,119.03,Low
+2022-03-13,Buncombe,37021,North Carolina,261191,225,"Buncombe (Asheville), NC - Henderson, NC",4.9,2.6,302.08,Medium
+2022-03-13,Burke,37023,North Carolina,90485,229,"Catawba (Hickory), NC - Burke, NC",9.9,5.1,127.09,Low
+2022-03-13,Cabarrus,37025,North Carolina,216453,235,"Cabarrus (Concord), NC - Rowan, NC",7.2,2.4,49.43,Low
+2022-03-13,Caldwell,37027,North Carolina,82178,229,"Catawba (Hickory), NC - Burke, NC",9.9,5.1,87.61,Low
+2022-03-13,Camden,37029,North Carolina,10867,264,"Pasquotank, NC - Dare, NC",1.5,2,248.46,Medium
+2022-03-13,Carteret,37031,North Carolina,69473,242,"Onslow, NC - Craven, NC",6,1.3,84.93,Low
+2022-03-13,Caswell,37033,North Carolina,22604,132,"Pittsylvania (Danville), VA - Danville City, VA",3.9,1,154.84,Low
+2022-03-13,Catawba,37035,North Carolina,159551,229,"Catawba (Hickory), NC - Burke, NC",9.9,5.1,83.99,Low
+2022-03-13,Chatham,37037,North Carolina,74470,203,"Orange (Chapel Hill), NC - Harnett, NC",9.1,5,96.68,Low
+2022-03-13,Cherokee,37039,North Carolina,28612,258,"Cherokee, NC - Clay, NC",6.8,10,76.89,Medium
+2022-03-13,Chowan,37041,North Carolina,13943,243,"Hertford, NC - Bertie, NC",5.3,0,43.03,Low
+2022-03-13,Clay,37043,North Carolina,11231,258,"Cherokee, NC - Clay, NC",6.8,10,97.94,Medium
+2022-03-13,Cleveland,37045,North Carolina,97947,218,"Gaston (Gastonia), NC - Cleveland, NC",8.6,1.3,57.17,Low
+2022-03-13,Columbus,37047,North Carolina,55508,207,"Robeson, NC - Columbus, NC",2.5,0.4,106.29,Low
+2022-03-13,Craven,37049,North Carolina,102139,242,"Onslow, NC - Craven, NC",6,1.3,102.8,Low
+2022-03-13,Cumberland,37051,North Carolina,335509,262,"Cumberland (Fayetteville), NC - Sampson, NC",5,2.5,135.32,Low
+2022-03-13,Currituck,37053,North Carolina,27763,6,"Virginia Beach City, VA - Norfolk City, VA",2,2.9,93.65,Low
+2022-03-13,Dare,37055,North Carolina,37009,264,"Pasquotank, NC - Dare, NC",1.5,2,91.87,Low
+2022-03-13,Davidson,37057,North Carolina,167609,186,"Guilford (Greensboro), NC - Davidson, NC",6.8,3.8,69.81,Low
+2022-03-13,Davie,37059,North Carolina,42846,149,"Forsyth (Winston-Salem), NC - Surry, NC",3.6,3.8,56.01,Low
+2022-03-13,Duplin,37061,North Carolina,58741,238,"Wayne, NC - Lenoir, NC",9.5,0.4,165.13,Low
+2022-03-13,Durham,37063,North Carolina,321488,170,"Durham (Durham), NC - Granville, NC",6.8,4.7,127.84,Low
+2022-03-13,Edgecombe,37065,North Carolina,51472,214,"Nash, NC - Halifax, NC",4.2,0.9,66.06,Low
+2022-03-13,Forsyth,37067,North Carolina,382295,149,"Forsyth (Winston-Salem), NC - Surry, NC",3.6,3.8,62.26,Low
+2022-03-13,Franklin,37069,North Carolina,69685,198,"Wake (Raleigh), NC - Johnston, NC",7.9,1.4,88.97,Low
+2022-03-13,Gaston,37071,North Carolina,224529,218,"Gaston (Gastonia), NC - Cleveland, NC",8.6,1.3,80.61,Low
+2022-03-13,Gates,37073,North Carolina,11562,243,"Hertford, NC - Bertie, NC",5.3,0,224.87,Medium
+2022-03-13,Graham,37075,North Carolina,8441,209,"Jackson, NC - Macon, NC",3.4,5.9,142.16,Low
+2022-03-13,Granville,37077,North Carolina,60443,170,"Durham (Durham), NC - Granville, NC",6.8,4.7,79.41,Low
+2022-03-13,Greene,37079,North Carolina,21069,238,"Wayne, NC - Lenoir, NC",9.5,0.4,118.66,Low
+2022-03-13,Guilford,37081,North Carolina,537174,186,"Guilford (Greensboro), NC - Davidson, NC",6.8,3.8,87.87,Low
+2022-03-13,Halifax,37083,North Carolina,50010,214,"Nash, NC - Halifax, NC",4.2,0.9,81.98,Low
+2022-03-13,Harnett,37085,North Carolina,135976,203,"Orange (Chapel Hill), NC - Harnett, NC",9.1,5,168.41,Low
+2022-03-13,Haywood,37087,North Carolina,62317,225,"Buncombe (Asheville), NC - Henderson, NC",4.9,2.6,110.72,Low
+2022-03-13,Henderson,37089,North Carolina,117417,225,"Buncombe (Asheville), NC - Henderson, NC",4.9,2.6,58.76,Low
+2022-03-13,Hertford,37091,North Carolina,23677,243,"Hertford, NC - Bertie, NC",5.3,0,59.13,Low
+2022-03-13,Hoke,37093,North Carolina,55234,205,"Moore, NC - Richmond, NC",7.4,1.3,110.44,Low
+2022-03-13,Hyde,37095,North Carolina,4937,195,"Pitt, NC - Beaufort, NC",7.9,4.8,101.28,Low
+2022-03-13,Iredell,37097,North Carolina,181806,192,"Iredell (Statesville), NC - Alexander, NC",4.1,5.5,51.7,Low
+2022-03-13,Jackson,37099,North Carolina,43938,209,"Jackson, NC - Macon, NC",3.4,5.9,122.9,Low
+2022-03-13,Johnston,37101,North Carolina,209339,198,"Wake (Raleigh), NC - Johnston, NC",7.9,1.4,171.01,Low
+2022-03-13,Jones,37103,North Carolina,9419,242,"Onslow, NC - Craven, NC",6,1.3,63.7,Low
+2022-03-13,Lee,37105,North Carolina,61779,203,"Orange (Chapel Hill), NC - Harnett, NC",9.1,5,72.84,Low
+2022-03-13,Lenoir,37107,North Carolina,55949,238,"Wayne, NC - Lenoir, NC",9.5,0.4,50.05,Low
+2022-03-13,Lincoln,37109,North Carolina,86111,218,"Gaston (Gastonia), NC - Cleveland, NC",8.6,1.3,56.9,Low
+2022-03-13,McDowell,37111,North Carolina,45756,261,"McDowell, NC",3.8,0,139.87,Low
+2022-03-13,Macon,37113,North Carolina,35858,209,"Jackson, NC - Macon, NC",3.4,5.9,320.71,Medium
+2022-03-13,Madison,37115,North Carolina,21755,225,"Buncombe (Asheville), NC - Henderson, NC",4.9,2.6,156.29,Low
+2022-03-13,Martin,37117,North Carolina,22440,195,"Pitt, NC - Beaufort, NC",7.9,4.8,62.39,Low
+2022-03-13,Mecklenburg,37119,North Carolina,1110356,167,"Mecklenburg (Charlotte), NC - Union, NC",5.1,1.4,72.86,Low
+2022-03-13,Mitchell,37121,North Carolina,14964,240,"Yancey, NC - Avery, NC",5.3,0,66.83,Low
+2022-03-13,Montgomery,37123,North Carolina,27173,205,"Moore, NC - Richmond, NC",7.4,1.3,47.84,Low
+2022-03-13,Moore,37125,North Carolina,100880,205,"Moore, NC - Richmond, NC",7.4,1.3,85.25,Low
+2022-03-13,Nash,37127,North Carolina,94298,214,"Nash, NC - Halifax, NC",4.2,0.9,0,Low
+2022-03-13,New Hanover,37129,North Carolina,234473,168,"New Hanover (Wilmington), NC - Brunswick, NC",8.3,5,143.3,Low
+2022-03-13,Northampton,37131,North Carolina,19483,214,"Nash, NC - Halifax, NC",4.2,0.9,51.33,Low
+2022-03-13,Onslow,37133,North Carolina,197938,242,"Onslow, NC - Craven, NC",6,1.3,419.83,Medium
+2022-03-13,Orange,37135,North Carolina,148476,203,"Orange (Chapel Hill), NC - Harnett, NC",9.1,5,129.31,Low
+2022-03-13,Pamlico,37137,North Carolina,12726,242,"Onslow, NC - Craven, NC",6,1.3,55.01,Low
+2022-03-13,Pasquotank,37139,North Carolina,39824,264,"Pasquotank, NC - Dare, NC",1.5,2,462.03,Medium
+2022-03-13,Pender,37141,North Carolina,63060,168,"New Hanover (Wilmington), NC - Brunswick, NC",8.3,5,85.63,Low
+2022-03-13,Perquimans,37143,North Carolina,13463,264,"Pasquotank, NC - Dare, NC",1.5,2,230.26,Medium
+2022-03-13,Person,37145,North Carolina,39490,170,"Durham (Durham), NC - Granville, NC",6.8,4.7,144.34,Low
+2022-03-13,Pitt,37147,North Carolina,180742,195,"Pitt, NC - Beaufort, NC",7.9,4.8,60.86,Low
+2022-03-13,Polk,37149,North Carolina,20724,191,"Spartanburg (Spartanburg), SC - Cherokee, SC",4.9,8.7,139.93,Low
+2022-03-13,Randolph,37151,North Carolina,143667,186,"Guilford (Greensboro), NC - Davidson, NC",6.8,3.8,86.31,Low
+2022-03-13,Richmond,37153,North Carolina,44829,205,"Moore, NC - Richmond, NC",7.4,1.3,58,Low
+2022-03-13,Robeson,37155,North Carolina,130625,207,"Robeson, NC - Columbus, NC",2.5,0.4,164.59,Low
+2022-03-13,Rockingham,37157,North Carolina,91010,186,"Guilford (Greensboro), NC - Davidson, NC",6.8,3.8,108.78,Low
+2022-03-13,Rowan,37159,North Carolina,142088,235,"Cabarrus (Concord), NC - Rowan, NC",7.2,2.4,68.27,Low
+2022-03-13,Rutherford,37161,North Carolina,67029,218,"Gaston (Gastonia), NC - Cleveland, NC",8.6,1.3,125.32,Low
+2022-03-13,Sampson,37163,North Carolina,63531,262,"Cumberland (Fayetteville), NC - Sampson, NC",5,2.5,393.51,Medium
+2022-03-13,Scotland,37165,North Carolina,34823,207,"Robeson, NC - Columbus, NC",2.5,0.4,77.53,Low
+2022-03-13,Stanly,37167,North Carolina,62806,235,"Cabarrus (Concord), NC - Rowan, NC",7.2,2.4,63.69,Low
+2022-03-13,Stokes,37169,North Carolina,45591,149,"Forsyth (Winston-Salem), NC - Surry, NC",3.6,3.8,92.12,Low
+2022-03-13,Surry,37171,North Carolina,71783,149,"Forsyth (Winston-Salem), NC - Surry, NC",3.6,3.8,82.19,Low
+2022-03-13,Swain,37173,North Carolina,14271,209,"Jackson, NC - Macon, NC",3.4,5.9,168.17,Low
+2022-03-13,Transylvania,37175,North Carolina,34385,225,"Buncombe (Asheville), NC - Henderson, NC",4.9,2.6,61.07,Low
+2022-03-13,Tyrrell,37177,North Carolina,4016,195,"Pitt, NC - Beaufort, NC",7.9,4.8,149.4,Low
+2022-03-13,Union,37179,North Carolina,239859,167,"Mecklenburg (Charlotte), NC - Union, NC",5.1,1.4,84.63,Low
+2022-03-13,Vance,37181,North Carolina,44535,170,"Durham (Durham), NC - Granville, NC",6.8,4.7,42.66,Low
+2022-03-13,Wake,37183,North Carolina,1111761,198,"Wake (Raleigh), NC - Johnston, NC",7.9,1.4,131.5,Low
+2022-03-13,Warren,37185,North Carolina,19731,170,"Durham (Durham), NC - Granville, NC",6.8,4.7,172.32,Low
+2022-03-13,Washington,37187,North Carolina,11580,195,"Pitt, NC - Beaufort, NC",7.9,4.8,328.15,Medium
+2022-03-13,Watauga,37189,North Carolina,56177,194,"Watauga, NC - Ashe, NC",11.3,3,135.29,Medium
+2022-03-13,Wayne,37191,North Carolina,123131,238,"Wayne, NC - Lenoir, NC",9.5,0.4,232.27,Medium
+2022-03-13,Wilkes,37193,North Carolina,68412,256,"Wilkes, NC",5.7,4.4,29.23,Low
+2022-03-13,Wilson,37195,North Carolina,81801,198,"Wake (Raleigh), NC - Johnston, NC",7.9,1.4,44.01,Low
+2022-03-13,Yadkin,37197,North Carolina,37667,149,"Forsyth (Winston-Salem), NC - Surry, NC",3.6,3.8,82.3,Low
+2022-03-13,Yancey,37199,North Carolina,18069,240,"Yancey, NC - Avery, NC",5.3,0,343.13,Medium
